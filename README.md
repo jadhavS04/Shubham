@@ -89,13 +89,12 @@
 
 <div align="center">
   
-
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=jadhavS04&show_icons=true&theme=radical&rank_icon=github&count_private=true" height="180" alt="stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavS04&theme=radical&hide_border=false" height="180" alt="streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jadhavS04&show_icons=true&theme=radical&rank_icon=github&count_private=true&include_all_commits=true&hide_border=false&cache_seconds=1800" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavS04&theme=radical&hide_border=false" height="180" alt="GitHub Streak" />
   </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jadhavS04&layout=compact&theme=radical&langs_count=8" width="85%" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jadhavS04&layout=compact&theme=radical&langs_count=8&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" width="85%" alt="Top Languages" />
 
 </div>
 
@@ -104,8 +103,11 @@
 ### 🐍 Contribution History
 
 <div align="center">
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/jadhavS04/jadhavS04/main/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jadhavS04/jadhavS04/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jadhavS04/jadhavS04/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jadhavS04/jadhavS04/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <div align="center">
