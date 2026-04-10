@@ -95,7 +95,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavS04&theme=radical&hide_border=false" height="180" alt="streak" />
   </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadhavS04&layout=compact&theme=radical&langs_count=8" width="85%" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jadhavS04&layout=compact&theme=radical&langs_count=8" width="85%" alt="languages" />
 
 </div>
 
@@ -105,7 +105,7 @@
 
 <div align="center">
   <div align="center">
-  <img src="https://raw.githubusercontent.com/jadhavS04/jadhavS04/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/jadhavS04/jadhavS04/main/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 </div>
 
 <div align="center">
