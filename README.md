@@ -1,11 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0000FF,8000FF,FF00FF&height=250&section=header&text=Shubham%20Jadhav&fontSize=80&fontAlign=51&animation=fadeIn&fontColor=ffffff&desc=%20%20%20%20&descAlign=50&descSize=25)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0000FF,8000FF,FF00FF&height=250&section=header&text=Shubham%20Jadhav&fontSize=80&fontAlign=51&animation=fadeIn)
 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;Data+Engineering+%26+Pipelines;Computer+Vision+%26+NLP;Turning+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00BFFF&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;Data+Engineering+%26+Pipelines;Computer+Vision+%26+NLP;Advanced+MLOps" alt="Typing SVG" />
 </a>
 
   <p>
@@ -59,8 +58,6 @@
 --- 
 
 
-
-
 ### 🛠️ Technical Arsenal
 
 <div align="center">
@@ -71,7 +68,7 @@
 | **AI & Data** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn&theme=dark" /><img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib&theme=dark" /> |
 | **Tools & OS** | <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,arduino,raspberrypi,androidstudio&theme=dark" /> |
 
-</div>>
+</div>
 
 ---
 
@@ -79,9 +76,9 @@
 
 | **Project Name** | **Description** | **Tech Stack** |
 |:---|:---|:---:|
-| 🧠 **Intelligent System** | *[Add Description]* A deep learning model for real-time analysis. | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![TF](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow) |
-| 📊 **Data Pipeline** | *[Add Description]* Automated ETL pipeline processing 1M+ rows. | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas) ![SQL](https://img.shields.io/badge/-SQL-blue?logo=mysql) |
-| 🤖 **Hardware Control** | *[Add Description]* IoT based controller using Raspberry Pi. | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino) |
+| 🧠 **Intelligent System** | A deep learning model for real-time analysis. | ![Python](https://img.shields.io/badge/-Python-black?logo=python) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
+| 📊 **Data Pipeline** | Automated ETL pipeline processing 1M+ rows. | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white) |
+| 🤖 **Hardware Control** | IoT based controller using Raspberry Pi. | ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) |
 
 ---
 
@@ -90,11 +87,11 @@
 <div align="center">
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=jadhavS04&show_icons=true&theme=radical&rank_icon=github&count_private=true&include_all_commits=true&hide_border=false&cache_seconds=1800" height="180" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavS04&theme=radical&hide_border=false" height="180" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jadhavS04&show_icons=true&theme=radical&rank_icon=github&count_private=true&include_all_commits=true&hide_border=false&cache_seconds=86400" alt="GitHub Stats" height="180" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadhavS04&theme=radical&hide_border=false&cache_seconds=86400" alt="GitHub Streak" height="180" />
   </p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jadhavS04&layout=compact&theme=radical&langs_count=8&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" width="85%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jadhavS04&layout=compact&theme=radical&langs_count=8&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Top Languages" />
 
 </div>
 
@@ -112,5 +109,5 @@
 
 <div align="center">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7f00ff,0d1117&height=130&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlign=50&fontColor=ffffff&descAlign=50" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,7f00ff,0d1117&height=130&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlign=50&animation=fadeIn" />
 </div>
